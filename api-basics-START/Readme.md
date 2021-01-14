@@ -32,7 +32,7 @@ Use the dev tools there is a reason why there in the browser. Monitor you builds
 - javascript profiler
 - paint flash
 - layout shift
-
+forma
 ## Check Network Performance
 - performance monitor
 - paint flash
